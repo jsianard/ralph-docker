@@ -1,10 +1,10 @@
 # Ralph Docker image configuration
 
-Build docker container to Ralph application
+Build a docker container for the Ralph DCIM system.
 
 Before running the script, you must change the configuration file.
 
-Rename file config.json.example to config.json and chnage it:
+Rename file config.json.example to config.json and change it:
 
 ```
 "REPOSITORIES_TYPES": {
